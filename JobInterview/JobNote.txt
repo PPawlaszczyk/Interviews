@@ -1,0 +1,14 @@
+﻿a program to preview hotel room availability and reservations in C#. The application should read from files containing 
+hotel data and booking data, then allow a user to check room availability for a specified hotel, date range, and room type.
+
+Console Input Examples
+Availability(H1, 20240901, SGL)
+Availability(H1, 20240901-20240903, DBL)
+
+
+ hotels sometimes accept over bookings so the value can be negative to indicate this
+
+ The program should exit when a blank line is entered. 
+
+  output:  2  1
+  
