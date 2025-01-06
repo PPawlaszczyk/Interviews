@@ -2,7 +2,7 @@
 
 ## Table of contents
 - [General](#General)
-- [Setup](#How-to-use-softwares)
+- [How to use software](#How-to-use-softwares)
 
 ## General
 
